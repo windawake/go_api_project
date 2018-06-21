@@ -1,0 +1,12 @@
+2018/06/21 15:19:52.984 [E] [asm_amd64.s:509] 请求记录
+2018/06/21 15:19:53.014 [D] [server.go:2619] 127.0.0.1 - - [21/Jun/2018 03:19:52] "GET /api/financialReport/getReportTypePermission?key=report_use_range&parentId=1 HTTP/1.1 200 0" 0.036005  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+
+2018/06/21 15:22:16.025 [I] [asm_amd64.s:509] 请求记录
+2018/06/21 15:22:16.082 [D] [server.go:2619] 127.0.0.1 - - [21/Jun/2018 03:22:16] "GET /api/financialReport/getReportTypePermission?key=report_use_range&parentId=1 HTTP/1.1 200 0" 0.059507  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+
+2018/06/21 15:24:23.306 [D] [server.go:2619] 127.0.0.1 - - [21/Jun/2018 03:24:23] "GET /api/financialReport/getReportTypePermission?key=report_use_range&parentId=1 HTTP/1.1 200 0" 0.026503  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+
+2018/06/21 15:25:42.065 [D] [server.go:2619] 127.0.0.1 - - [21/Jun/2018 03:25:42] "GET /api/financialReport/getReportTypePermission?key=report_use_range&parentId=1 HTTP/1.1 200 0" 0.055007  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+
+2018/06/21 15:28:52.232 [D] [server.go:2619] 127.0.0.1 - - [21/Jun/2018 03:28:52] "GET /api/financialReport/getReportTypePermission?key=report_use_range&parentId=1 HTTP/1.1 200 0" 0.055507  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+
